@@ -1,0 +1,25 @@
+# - Maximum Sum Subarray of Size k
+# - Problem: Given an integer array arr[] and an integer k, return the maximum sum of any contiguous subarray of size k.
+# - Example:
+# Input: [1,4,2,10,23,3,1,0,20], k=4
+# Output: 39 (subarray [4,2,10,23])
+arr=[1,4,2,10,23,3,1,0,20]
+k=4
+n=len(arr)
+#brute force
+maxx=0
+for i in range(0,n-k+1):
+ curr_sum=0
+ for j in range(i,i+k):
+     curr_sum+=arr[j]
+ maxx=max(maxx,curr_sum)
+print(maxx)
+#sliding window way
+if n<k:
+    print(None)
+curr_sum=sum(arr[:k])
+maxx=curr_sum
+for i in range(k,n):
+        curr_sum+=arr[i]-arr[i-k]
+        maxx=max(curr_sum,maxx)
+print(maxx)
