@@ -1,0 +1,135 @@
+Here’s a **clean list of concept names only** (developer interview focus):
+
+---
+
+## 🧠 Core Programming
+
+* Data Types
+* Variables
+* Operators
+* Control Statements
+* Functions
+* Arrays
+* Objects
+* Error Handling
+
+---
+
+## ⚡ JavaScript Concepts
+
+* Closures
+* Hoisting
+* Event Loop
+* Promises
+* Async/Await
+* Callbacks
+* Scope
+* this Keyword
+
+---
+
+## ⚛️ Frontend (React / Angular)
+
+* Components
+* Props
+* State
+* Hooks
+* Lifecycle Methods
+* Routing
+* Conditional Rendering
+* Forms Handling
+
+---
+
+## 🌐 Web Fundamentals
+
+* HTML
+* CSS
+* Flexbox
+* Grid
+* Responsive Design
+* Browser DOM
+
+---
+
+## 🔗 API & Networking
+
+* REST API
+* HTTP Methods
+* Status Codes
+* JSON
+* Request/Response Cycle
+
+---
+
+## 🏗️ Architecture & Design
+
+* MVC Architecture
+* Client-Server Architecture
+* Monolith vs Microservices
+* System Design Basics
+* Layered Architecture
+
+---
+
+## 🔐 Security
+
+* Authentication
+* Authorization
+* JSON Web Token
+* CORS
+
+---
+
+## 🛢️ Database
+
+* SQL
+* NoSQL
+* CRUD Operations
+* Joins
+* Indexing
+
+---
+
+## ⚙️ Backend
+
+* Routing
+* Middleware
+* Controllers
+* Services
+* ORM/ODM
+
+---
+
+## 🔧 Tools & DevOps
+
+* Git
+* GitHub
+* CI/CD
+* Docker
+* Deployment
+
+---
+
+## 🧪 Software Principles
+
+* DRY
+* KISS
+* SOLID
+* Clean Code
+
+---
+
+## 🔍 Problem Solving
+
+* Algorithms
+* Data Structures
+* Time Complexity
+* Space Complexity
+
+---
+
+If you want next:
+
+* 🔥 Convert this into **checklist (tick format)**
+* 📅 Or a **30-day preparation roadmap**
