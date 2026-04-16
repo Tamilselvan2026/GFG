@@ -1,0 +1,133 @@
+## 💼 Skills Required for a System Engineer (SE)
+
+A **System Engineer** focuses on keeping systems **stable, secure, and running smoothly in production**. Here are the core skills, in a clean interview-ready format.
+
+---
+
+# 🧠 1. Operating System Knowledge
+
+* Strong understanding of Linux / Windows
+* File systems, processes, permissions
+
+👉 Most companies expect **Linux basics**
+
+---
+
+# 🌐 2. Networking Fundamentals
+
+* IP, DNS, HTTP/HTTPS
+* Ports, firewalls, load balancing basics
+
+👉 Helps in debugging real-time issues
+
+---
+
+# ⚙️ 3. Server & Infrastructure Management
+
+* Setting up servers
+* Managing uptime, performance
+
+👉 Core responsibility of SE role
+
+---
+
+# 🔧 4. Scripting Skills
+
+* Basic scripting for automation
+* Shell scripting or Python
+
+👉 Used to reduce manual work
+
+---
+
+# 🛢️ 5. Database Basics
+
+* SQL queries (SELECT, INSERT)
+* Basic DB understanding
+
+👉 Helps in troubleshooting backend issues
+
+---
+
+# 🔍 6. Monitoring & Debugging
+
+* Log analysis
+* Identifying root cause of failures
+
+👉 Very important in production support
+
+---
+
+# 🔐 7. Security Basics
+
+* Authentication concepts (like JSON Web Token)
+* Access control
+
+---
+
+# ☁️ 8. Cloud Basics
+
+* Understanding of cloud platforms
+* Hands-on with Amazon Web Services or Azure
+
+---
+
+# ⚙️ 9. DevOps Awareness
+
+* CI/CD basics
+* Tools like Docker
+
+---
+
+# 🔗 10. Version Control
+
+* Using Git
+* Basic commands (clone, commit, push)
+
+---
+
+# 🤝 11. Soft Skills (Very Important)
+
+* Problem-solving mindset
+* Communication skills
+* Handling pressure (production issues)
+
+---
+
+# 🎯 Priority for Freshers (Focus First)
+
+### Must-have:
+
+* Linux basics
+* Networking basics
+* Debugging
+* Git
+
+### Good-to-have:
+
+* Cloud
+* Docker
+* Scripting
+
+---
+
+# 🏢 Real expectation in companies like Tata Consultancy Services
+
+* Monitor systems
+* Fix production issues
+* Support deployments
+* Work with backend teams
+
+---
+
+## 💬 Interview answer
+
+> A System Engineer should have strong knowledge of operating systems, networking, server management, scripting, and debugging. Additionally, skills in cloud platforms, version control, and basic DevOps tools are important for managing modern scalable systems.
+
+---
+
+If you want, I can:
+
+* 🔥 Give **daily tasks of a System Engineer**
+* 💻 Provide **real interview questions + answers**
+* 🎯 Create a **1-month preparation plan for SE role**
