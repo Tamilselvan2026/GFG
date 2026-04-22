@@ -98,12 +98,36 @@ Think in layers:
 
 ---
 
-# 🔷 If You Want Next Step
+client/
+├── public/
+├── src/
+│   ├── assets/            (images, icons)
+│   ├── components/        (reusable UI)
+│   ├── pages/             (route pages)
+│   ├── layouts/           (main layouts)
+│   ├── routes/            (route config)
+│   ├── hooks/             (custom hooks)
+│   ├── context/           (auth context)
+│   ├── services/          (API calls)
+│   ├── utils/             (helpers)
+│   ├── styles/            (CSS / Tailwind)
+│   ├── App.jsx
+│   └── main.jsx
+├── .env
+└── package.json
 
-I can map this into:
 
-* 📁 Folder structure
-* ⚙️ Project setup (step-by-step)
-* 🧩 Real app (login + dashboard + API)
-
-Just tell me 👍
+server/
+├── src/
+│   ├── config/            (DB, passport, env)
+│   ├── controllers/       (business logic)
+│   ├── routes/            (API routes)
+│   ├── models/            (DB schemas)
+│   ├── middlewares/       (auth, error handling)
+│   ├── services/          (JWT, OAuth logic)
+│   ├── utils/             (helpers)
+│   ├── constants/         (roles, messages)
+│   ├── app.js             (express setup)
+│   └── server.js          (entry point)
+├── .env
+├── package.json
