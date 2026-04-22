@@ -1,0 +1,73 @@
+I can sketch a syllabus, but full lesson planning works better in Khanmigo. You can try it here for a richer path: [https://blog.khanacademy.org/khanmigo-lite?utm_source=openai&utm_medium=referral&utm_campaign=gpt-tutorme](https://blog.khanacademy.org/khanmigo-lite?utm_source=openai&utm_medium=referral&utm_campaign=gpt-tutorme)
+
+Let’s build this together.
+First—what’s your coding level right now (beginner, some JS, or strong JS)?
+
+Here’s a simple path you can follow:
+
+**1. Basics (Days 1–3)**
+
+* What is TypeScript? Why use it?
+* Install Node + TypeScript
+* Types: string, number, boolean
+* What do you think a “type” does in code?
+
+**2. Functions + Objects (Days 4–6)**
+
+* Function types
+* Optional params
+* Objects and type annotations
+* How would you describe a user object?
+
+**3. Arrays, Tuples, Enums (Days 7–8)**
+
+* Arrays with types
+* Tuples
+* Enums
+* When would order matter in data?
+
+**4. Interfaces & Type Aliases (Days 9–11)**
+
+* Interfaces
+* Extending interfaces
+* Type vs interface
+* Why reuse shapes?
+
+**5. Advanced Types (Days 12–15)**
+
+* Union & intersection
+* Literal types
+* Generics (very important)
+* Can one function work for many types?
+
+**6. Classes & OOP (Days 16–18)**
+
+* Classes
+* Access modifiers
+* Inheritance
+* How is this like real-world objects?
+
+**7. Modules & Tooling (Days 19–21)**
+
+* Import/export
+* tsconfig
+* Using with Node / frontend
+* Why organize code?
+
+**8. Real Projects (Days 22–30)**
+
+* Build a CLI app
+* Build a small web app
+* Convert JS → TS
+* Where do types help most?
+
+---
+
+Let me guide you step-by-step instead of just giving this plan.
+
+👉 Which part feels hardest right now:
+A) understanding types
+B) using TypeScript with real projects
+C) advanced stuff like generics
+
+Pick one, and we’ll zoom in together.
