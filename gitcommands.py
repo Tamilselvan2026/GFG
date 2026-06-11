@@ -32,4 +32,3 @@ print("git gc")
 print("git help")
 
 
-Print("These are some of the basic git commands that are commonly used in version control and collaboration. Learning these commands will help you manage your code effectively and work with other developers on projects.")
