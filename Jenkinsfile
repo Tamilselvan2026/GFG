@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Welcome') {
             steps {
-                echo 'Welcome to Jenkins Pipeline!'
+                echo 'Webhook trigger is working!'
             }
         }
 
